@@ -8,4 +8,4 @@ Hult International Business School | San Francisco, United States
 As a current student in the Master of Business Analytics program at Hult International Business School, I am gaining valuable expertise in data analysis, statistical modeling, machine learning and communication strategies. I have developed my technical skills in Python, SQL, R and Tableau, allowing me to gather, analyze, and interpret data to drive business growth.
 
 
-<a href="subpagina.html">Regression Modeling Project.md</a>
+<a href="subpagina.html">Regression Modeling Project.md</a> 
