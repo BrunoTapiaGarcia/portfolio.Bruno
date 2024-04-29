@@ -13,4 +13,4 @@ Projects:
 
 <a href="https://brunotapiagarcia.github.io/Regression-Model/" >Regression Model Project</a>
 
-<a href="https://brunotapiagarcia.github.io/AText-Adventure-Game/" >Text Adventrue Game Project</a>
+<a href="https://brunotapiagarcia.github.io/Text-Adventure-Game/" >Text Adventrue Game Project</a>
