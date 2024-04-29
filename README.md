@@ -10,7 +10,7 @@ As a current student in the Master of Business Analytics program at Hult Interna
 
 <a href="https://github.com/BrunoTapiaGarcia/portfolio.Bruno/blob/main/Regression Modeling Project.md">Regression Modeling Project.md</a>
 
-https://brunotapiagarcia.github.io/portfolio/
+<ahttps://brunotapiagarcia.github.io/portfolio/a>
 
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
