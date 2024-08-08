@@ -11,7 +11,7 @@ Projects:
 
 <a href="https://brunotapiagarcia.github.io/Classification-Modeling-Project/" >Classification Modeling Project</a>
 
-<a href="https://brunotapiagarcia.github.io/Regression-Model/" >Regression Model Project</a>
+<a href="https://brunotapiagarcia.github.io/Regression-Model/" >Predicting Bike Rentals with Regression Models</a>
 
 <a href="https://brunotapiagarcia.github.io/Text-Adventure-Game/" >Text Adventrue Game Project</a>
 
