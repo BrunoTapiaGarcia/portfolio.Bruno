@@ -13,8 +13,6 @@ Projects:
 
 <a href="https://brunotapiagarcia.github.io/Regression-Model/" >Predicting Bike Rentals with Regression Models</a>
 
-<a href="https://brunotapiagarcia.github.io/Text-Adventure-Game/" >Text Adventrue Game Project</a>
-
 <a href="https://brunotapiagarcia.github.io/NLP-Analysis-Project/" >Airbnb NLP-Analysis-Project with R</a>
 
 <a href="https://brunotapiagarcia.github.io/Data-Visualization/" >Data Visualization Project</a>
