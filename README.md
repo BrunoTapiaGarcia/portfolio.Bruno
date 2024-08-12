@@ -21,3 +21,9 @@ Academic Projects at <a href="https://www.hult.edu/" >Hult Business School</a>:
 <a href="https://brunotapiagarcia.github.io/NLP-Analysis-Project/" >Airbnb NLP-Analysis-Project with R</a>
 
 <a href="https://brunotapiagarcia.github.io/Data-Visualization/" >Data Visualization Project</a>
+
+EEM Operating Rooms:
+
+<a href="https://brunotapiagarcia.github.io/Regression-Model/" >EEM Projects</a>
+
+
