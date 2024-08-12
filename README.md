@@ -1,4 +1,3 @@
-![Foto](2501a703-37a1-4e08-9938-044e53dd01da.jpeg)
 <img src="2501a703-37a1-4e08-9938-044e53dd01da.jpeg" alt="Descripción de la imagen" width="300" height="240">
 
 
