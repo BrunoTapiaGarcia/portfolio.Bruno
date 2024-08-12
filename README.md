@@ -10,7 +10,7 @@ Hult International Business School | San Francisco, United States
 
 As a current student in the Master of Business Analytics program at Hult International Business School, I am gaining valuable expertise in data analysis, statistical modeling, machine learning and communication strategies. I have developed my technical skills in Python, SQL, R and Tableau, allowing me to gather, analyze, and interpret data to drive business growth.
 
-Academic Projects at <a href="https://www.hult.edu/" >Hult Business School</a> 
+Academic Projects at <a href="https://www.hult.edu/" >Hult Business School</a>:
 
 <a href="https://brunotapiagarcia.github.io/Unsupervised-Project-with-NASA/" >Predicting Impact of Hurracain Maria using NASA Sentinel-2 images</a>
 
