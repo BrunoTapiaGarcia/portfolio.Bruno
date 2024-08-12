@@ -9,9 +9,11 @@ As a current student in the Master of Business Analytics program at Hult Interna
 
 Projects:
 
-<a href="https://brunotapiagarcia.github.io/Classification-Modeling-Project/" >Classification Modeling Project</a>
+<a href="https://brunotapiagarcia.github.io/Unsupervised-Project-with-NASA/" >Predicting Impact of Hurracain Maria using NASA Sentinel-2 images</a>
 
 <a href="https://brunotapiagarcia.github.io/Regression-Model/" >Predicting Bike Rentals with Regression Models</a>
+
+<a href="https://brunotapiagarcia.github.io/Classification-Modeling-Project/" >Classification Modeling Project</a>
 
 <a href="https://brunotapiagarcia.github.io/NLP-Analysis-Project/" >Airbnb NLP-Analysis-Project with R</a>
 
