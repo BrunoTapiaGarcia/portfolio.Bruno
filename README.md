@@ -22,7 +22,7 @@ Academic Projects at <a href="https://www.hult.edu/" >Hult Business School</a>:
 
 <a href="https://brunotapiagarcia.github.io/Data-Visualization/" >Data Visualization Project</a>
 
-EEM Operating Rooms:
+EEM Projects:
 
 <a href="https://brunotapiagarcia.github.io/eem/" >EEM Projects</a>
 
