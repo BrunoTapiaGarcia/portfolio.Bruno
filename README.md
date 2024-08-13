@@ -20,7 +20,6 @@ As a current student in the Master of Business Analytics program at Hult Interna
 
 <a href="https://brunotapiagarcia.github.io/NLP-Analysis-Project/" >Airbnb NLP-Analysis-Project with R</a>
 
-<a href="https://brunotapiagarcia.github.io/Data-Visualization/" >Data Visualization Project</a>
 
 **EEM Projects:**
 
