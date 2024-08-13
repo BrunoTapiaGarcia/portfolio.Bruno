@@ -2,7 +2,7 @@
 <img src="2501a703-37a1-4e08-9938-044e53dd01da.jpeg" alt="Descripción de la imagen" width="300" height="240">
 
 # Bruno Tapia
-I'm a Business Analytics student with a passion for finding business solutions, I have a Bachelor's degree in Entrepreneurship and Innovation and over two years of experience working as a Strategic Planning Coordinator in [EEM](https://www.eem.com.mx/), a mexican company specialized in the Operating-Room Integration market, during this time, I have developed effective strategies and implemented innovative methodologies such as OKRs and MVPs to increase operational efficiency by 20% and improve business outcomes in the healthcare industry.
+I'm a Business Analytics student with a passion for finding business solutions, I have a Bachelor's degree in Entrepreneurship and Innovation and over two years of experience working as a Strategic Planning Coordinator in [EEM](https://www.eem.com.mx/), a medical device company specialized in the Operating-Room Integration market, during this time, I have developed effective strategies and implemented innovative methodologies such as OKRs and MVPs to increase operational efficiency by 20% and improve business outcomes in the healthcare industry.
 
 Master of Business Analytics (MBAN)
 Expected graduation year: 08/2024
