@@ -24,6 +24,7 @@ Academic Projects at <a href="https://www.hult.edu/" >Hult Business School</a>:
 
 EEM Operating Rooms:
 
-<a href="https://brunotapiagarcia.github.io/Regression-Model/" >EEM Projects</a>
+<a href="https://brunotapiagarcia.github.io/eem/" >EEM Projects</a>
+
 
 
